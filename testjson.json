@@ -13,5 +13,10 @@
     "name": "Carol Lee",
     "email": "carol@example.com",
     "role": "viewer"
+  },
+  {
+    "name": "Mark Gardner",
+    "email": "mgardner@test.com",
+    "role": "viewer"
   }
 ]
