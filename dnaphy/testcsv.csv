@@ -2,4 +2,4 @@ name,email,role
 Alice Johnson,alice@example.com,admin
 Bob Smith,bob@example.com,editor
 Carol Lee,carol@example.com,viewer
-Mark Gardner,mgardner@test.com,viewer
+Mark Gardner,mgardner@example.com,admin
