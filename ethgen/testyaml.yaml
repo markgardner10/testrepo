@@ -2,7 +2,7 @@
   email: alice@example.com
   role: admin
 
-- name: Bob Smith
+- name: Bob Jones
   email: bob@example.com
   role: editor
 
