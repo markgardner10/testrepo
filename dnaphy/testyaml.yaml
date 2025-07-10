@@ -7,5 +7,6 @@
   role: editor
 
 - name: Carol Lee
-  email: carol@example.com
-  role: editor
+  email: carollee@example.com
+  role: viewer
+  
